@@ -1,7 +1,9 @@
 ---
-published: false
+layout: post
+title: a second possting
 ---
-## A New Post
+2nd post
+Seriously?
 
 This must be the second posting
 
