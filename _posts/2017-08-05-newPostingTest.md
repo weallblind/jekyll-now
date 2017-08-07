@@ -2,7 +2,7 @@
 layout: post
 title: a brand New Posting
 ---
-
+1st post
 Seriously?
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
