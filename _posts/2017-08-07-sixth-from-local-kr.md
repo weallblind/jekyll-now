@@ -2,8 +2,8 @@
 layout: post
 title: 여섯번째
 ---
-육째 포스팅
-잘 되나요
+6째 포스팅
+잘 보이죠 ~
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
