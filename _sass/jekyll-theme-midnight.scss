@@ -205,12 +205,12 @@ dt {
         }
       }
 
-      &.fork {
+      &.category {
         float: left;
         margin-left: 0px;
       }
 
-      &.downloads {
+      &.home {
         float: right;
         margin-left: 6px;
       }
@@ -293,7 +293,7 @@ section {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 320px) {
 
   #header {
     margin-top: -20px;
