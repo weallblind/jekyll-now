@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+categories: Personal
 title: a fifth posting
 ---
 5th posting from local

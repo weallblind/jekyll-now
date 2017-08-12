@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+categories: Personal
 title: a brand New Posting
 ---
 1st post

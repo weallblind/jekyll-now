@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+categories: Personal
 title: a thrid posting
 ---
 3rd post

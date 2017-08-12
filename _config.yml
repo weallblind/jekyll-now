@@ -6,7 +6,9 @@
 name: weallblind
 
 # Short bio or description (displayed in the header)
-description: note of life
+title: story of your life
+description: this is description for my site
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -20,7 +22,7 @@ avatar: http://weallblind.github.io/images/surfIcon.png
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/gho.choi.5
+  facebook: gho.choi.5
   flickr:
   github: weallblind/weallblind.github.io
   instagram:
@@ -34,15 +36,15 @@ footer-links:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+# You can find your shortname on the Setntings page of your Disqus account
+disqus: weallblindn
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://weallblind.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -71,12 +73,17 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+#  style: :expanded # You might prefer to minify using :compressed
+  sass_dir: _sass
+  style: compressed
+#  sass_dir: assets/css/
+#  style: :nested
 
 # Use the following plug-ins
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  #- jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+#  - jekyll-theme-midnight
 
 # Exclude these files from your production _site
 exclude:
@@ -87,3 +94,13 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-midnight
+#theme: jekyll-theme-slate
+#theme: jekyll-theme-architect
+#theme: jekyll-theme-leap-day
+
+show_downloads: yes
+
+github:
+  owner_name: weallblind
+  owner_url: https://github.com/weallblind
+  repository_url: https://github.com/weallblind/weallblind.github.io.git

@@ -1,7 +1,9 @@
 ---
-published: false
+layout: post
+comments: true
+categories: Tech
+title: 4th, A New Post
 ---
-## 4th, A New Post
 
 This is generated from prose.
 

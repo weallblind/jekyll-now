@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+categories: Personal
 title: a second possting
 ---
 2nd post
