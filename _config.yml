@@ -6,7 +6,7 @@
 name: weallblind
 
 # Short bio or description (displayed in the header)
-title: story of your life
+title: test - title
 description: this is description for my site
 
 
@@ -37,14 +37,15 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Setntings page of your Disqus account
-disqus: weallblindn
+disqus: weallblind
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://weallblind.github.io
+home_url: https://weallblind.github.io
+about_page_file: about.md
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
